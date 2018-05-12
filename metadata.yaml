@@ -1,0 +1,32 @@
+_repo: Extinct-Birds--13-An-attempt-to-unite-in-one-volume-a-short-account-of-those-Birds-which-have__40000
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rothschild, Lionel Walter Rothschild, Baron
+    aliases:
+    - Rothschild, Lord
+    - Rothschild, Walter, Baron
+    birthdate: 1868
+    deathdate: 1937
+    gutenberg_agent_id: '40357'
+    url: http://www.gutenberg.org/2009/agents/40357
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Rothschild,_2nd_Baron_Rothschild
+description: ''
+gutenberg_issued: '2012-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40000'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Extinct birds'
+- !lcsh 'Birds'
+- !lcc 'QL'
+title: "Extinct Birds\r\nAn attempt to unite in one volume a short account of those\
+  \ Birds which have become extinct in historical times"
+url: http://www.gutenberg.org/ebooks/40000
